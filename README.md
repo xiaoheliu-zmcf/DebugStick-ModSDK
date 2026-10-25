@@ -1,0 +1,2 @@
+# DebugStick-ModSDK
+MinecraftJE中的调试棒移植至Minecraft中国版
