@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "by 追梦次方-Studio",
+        "min_engine_version": [
+            1,
+            18,
+            0
+        ],
+        "name": "调试棒[追梦次方-Studio]",
+        "uuid": "a0712a11-0597-489d-bc13-1d5de15ecdd9",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "fc93834a-22ca-4ab0-a69f-81db649fdb7e",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

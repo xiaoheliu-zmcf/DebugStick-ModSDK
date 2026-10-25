@@ -1,0 +1,21 @@
+{
+    "authors": "ZmcfStudio",
+    "ModName": "调试棒[追梦次方-Studio]",
+    "creation_timestamp": "2026.09.24",
+    "resource_pack_uuid": "c155213c-c17c-4660-aa4f-6a35d1e5d1c8",
+    "min_engine_version": [
+        1,
+        18,
+        0
+    ],
+    "ModVersion": [
+        1,
+        0,
+        0
+    ],
+    "use_ModSDK": true,
+    "use_ScriptAPI": false,
+    "behavior_pack_uuid": "a0712a11-0597-489d-bc13-1d5de15ecdd9",
+    "namespace_prefix": "xh_ds",
+    "ModScript": "ZmcfDebugStickScripts.modMain"
+}

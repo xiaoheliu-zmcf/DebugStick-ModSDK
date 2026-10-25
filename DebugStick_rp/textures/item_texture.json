@@ -1,0 +1,9 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "xh_ds:debug_stick": {
+            "textures": "textures/DebugStick/items/debug_stick"
+        }
+    },
+    "texture_name": "atlas.items"
+}

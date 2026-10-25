@@ -1,0 +1,11 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "xh_ds:debug_stick"
+        },
+        "description": {
+            "identifier": "xh_ds:debug_stick"
+        }
+    }
+}

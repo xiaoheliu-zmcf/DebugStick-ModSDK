@@ -1,0 +1,25 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:foil": true,
+            "minecraft:max_stack_size": 1,
+            "netease:customtips": {
+                "value": "§a[调试棒]§f 用法：\n§f 右键方块 = 切换要修改的「方块状态(属性)」\n§f 左键方块 = 循环切换该属性的取值\n§7(模仿 Java 版调试棒，需创造模式)"
+            },
+            "netease:enchant_material": {
+                "value": true
+            },
+            "netease:fire_resistant": {
+                "value": true
+            },
+            "netease:fuel": {
+                "duration": 1000
+            }
+        },
+        "description": {
+            "category": "items",
+            "identifier": "xh_ds:debug_stick"
+        }
+    }
+}
